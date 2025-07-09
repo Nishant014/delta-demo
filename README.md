@@ -4,4 +4,4 @@ this is a trial for project
 this is Nishant
 
 #aditya 
-adtiya is a black boy
+adtiya is a black boy.
